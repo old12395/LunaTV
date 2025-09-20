@@ -1,0 +1,18 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "name": "茅台资源",
+      "detail": ""
+    }
+    // ...更多站点
+  },
+  "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
+}
